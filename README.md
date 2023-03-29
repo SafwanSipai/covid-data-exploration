@@ -2,7 +2,7 @@
 A small SQL based data exploration script run on COVID-19 deaths and vaccinations data to get a better understanding of the whole scenario. The data was downloaded from https://ourworldindata.org/coronavirus
 
 ## About the data
-The data consisted of two SQL tables - CovidDeaths and CovidVaccinations
+The data consisted of two SQL tables - CovidDeaths and CovidVaccinations.
 
 ## Exploratory Data Analysis
 The data was explored on the basis of the different parameters mentioned below along with the output.
